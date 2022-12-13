@@ -1,3 +1,3 @@
 # FastAI Course
 
-I'm jurst tryna figure this AI shit
+I'm just tryna figure this AI shit
